@@ -1,2 +1,2 @@
-#git test입니다
-##git file2입니다.
+# 테스트 파일입니다.
+## git command test
